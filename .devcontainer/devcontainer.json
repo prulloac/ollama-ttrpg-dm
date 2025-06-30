@@ -23,7 +23,7 @@
 			"version": "latest",
 			"dockerDashComposeVersion": "latest"
 		},
-		"ghcr.io/devcontainers/features/nvidia-cuda:1": {
+		"ghcr.io/devcontainers/features/nvidia-cuda:2": {
 			"installCudnn": true,
 			"installCudnnDev": true,
 			"installNvtx": true,
